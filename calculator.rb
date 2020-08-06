@@ -1,6 +1,6 @@
 # Add your variables here
-first_number = 0
-second_numer = 0
+first_number = 6
+second_number = 2
 sum = 0
 difference = 0
 product = 0
